@@ -11,3 +11,6 @@ Donald Trump has pointed out a lingering issues in media, the publication of fak
 * [Cleaning](https://github.com/LaurentStar/Cap-Stone/blob/master/cleaning.ipynb) - Cleaning the data removing all null values and parsing all observations into a finalized form
 * [Scripts](https://github.com/LaurentStar/Cap-Stone/tree/master/scripts) Scripts built to scrape websites or other supportive task that would be too slow in jupyter notebooks
 * [Image](https://github.com/LaurentStar/Cap-Stone/tree/master/image) - Presentation material
+
+## Try the web app
+https://i-found-you-faker.herokuapp.com/
