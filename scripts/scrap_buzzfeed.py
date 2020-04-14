@@ -45,7 +45,7 @@ _  = os.path.join('data', 'buzzfeed_2018_fake_news.csv')
 buzz_feed_fakenews_df = pd.read_csv(_)
 
 
-outF = open("data.txt", "a", encoding="utf-8") 
+outF = open("buzzfeed_fake_articles.txt", "a", encoding="utf-8") 
 for index, value in enumerate(buzz_feed_fakenews_df['url'][7115:]): 
     
     outF.write(clean_me(value)) 
@@ -56,5 +56,3 @@ for index, value in enumerate(buzz_feed_fakenews_df['url'][7115:]):
 outF.close()        
         
         
-buzz_feed_fakenews_df['article'] = pd.Series[tmp]
-buzz_feed_fakenews_df.to_csv('test.')

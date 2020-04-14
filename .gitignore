@@ -140,3 +140,4 @@ prep_kaggle_fakenews_train.pkl
 data/prep_huff.pkl
 data/prep_buzzfeed_fakenews.pkl 
 data/prep_kaggle_fakenews_train.pkl 
+web_app
