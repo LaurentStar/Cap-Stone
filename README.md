@@ -10,7 +10,7 @@ Donald Trump has pointed out a lingering issues in media, the publication of fak
 * [Final Model](https://github.com/LaurentStar/Cap-Stone/blob/master/final_model.pkl) - The final model is saved for usage in the web application. 
 * [Master](https://github.com/LaurentStar/Cap-Stone/blob/master/master.ipynb) - I perform all my modeling in master using the final data frame generated from the prep.ipynb notebook.
 * [Prepare Data](https://github.com/LaurentStar/Cap-Stone/blob/master/prep.ipynb) - I prepare cleaned data, I feature select/extend any columns I need, I scrap additional data using the urls initially provided and concatanated everything into one final dataframe.
-* [Vectorizer](https://github.com/LaurentStar/Cap-Stone/blob/master/vectorizer.pkl) - This is a python object I used to quickly vectorize articles to be feed into my model
+* [Vectorizer](https://github.com/LaurentStar/Cap-Stone/blob/master/vectorizer.pkl) - This is a python object I used to quickly vectorize articles to be fed into my model
 
 
 
